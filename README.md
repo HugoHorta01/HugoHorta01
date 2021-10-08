@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HugoHorta01&label=Views&color=blue&style=plastic" alt="" /> </p>
 
-<a href="#>
+<a href="#">
   <img align="left" alt="Hugo Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="#">
