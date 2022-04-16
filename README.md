@@ -46,4 +46,4 @@ I’m currently working on ...
   </a>
 </p>
 
-## 🛠️Projects
+<img align="center" src="https://github.com/ghenriquec/ghenriquec/blob/main/dino.gif" />
