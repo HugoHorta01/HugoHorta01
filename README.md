@@ -47,7 +47,3 @@ I’m currently working on ...
 </p>
 
 ## 🛠️Projects
-
-
-## ❤ Thank You for visit my profile!
-<img align="center" src="https://github.com/HugoHorta01/HugoHorta01/blob/main/dino.gif" />
